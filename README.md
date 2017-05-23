@@ -1,2 +1,4 @@
 # app-flipbvecs
-app to flip the bvecs on one of the axes
+app to flip the bvecs around one or more axes
+
+still need to edit: clean.sh and package.json
